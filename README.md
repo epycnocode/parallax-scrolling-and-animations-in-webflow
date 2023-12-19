@@ -62,15 +62,5 @@ window.addEventListener('scroll', () => {
 });
 ```
 
-**4. Remember:**
-
-  - Start with subtle animations and parallax effects to avoid overwhelming your users.
-  - Use animations sparingly and for specific purposes to maintain clarity and focus.
-  - Test your website thoroughly on different devices and browsers.
-
-**Bonus Tip:** Explore Webflow's built-in Interactions feature to create a variety of animations without needing to write code.
-
-
-
 # Need help?
 Stuck with custom css code? [Contact us](https://epyc.in/).
